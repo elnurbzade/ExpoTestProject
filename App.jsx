@@ -39,20 +39,20 @@ const LoginForm = () => {
 
 const styles = StyleSheet.create({
     container: {
-        backgroundColor: 'green',
+        backgroundColor: '#876918',
         flex: 1,
         justifyContent: 'center',
         paddingHorizontal: 40,
     },
     title: {
         fontSize: 34,
-        fontWeight: 'italic',
+        fontWeight: 'bold',
         textAlign: 'center',
         marginBottom: 20,
     },
     input: {
-        height: 40,
-        borderColor: 'gray',
+        height: 50,
+        borderColor: 'black',
         borderWidth: 1,
         paddingHorizontal: 10,
         marginBottom: 10,
