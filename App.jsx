@@ -42,7 +42,7 @@ const styles = StyleSheet.create({
         backgroundColor: '#876918',
         flex: 1,
         justifyContent: 'center',
-        paddingHorizontal: 40,
+        paddingHorizontal: 45,
     },
     title: {
         fontSize: 34,
